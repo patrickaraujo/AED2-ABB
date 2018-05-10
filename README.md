@@ -26,7 +26,6 @@ _Functions_:
 * _Pre-order Traversal_
 * _In-order Traversal_
 * _Post-order Traversal_
-* _Post-order Traversal_
 * _Check Full Binary Tree_
 * _Mirror_
 * _Recursive Deletion_
