@@ -253,3 +253,18 @@ void imprimir(TBT* main){
     }
     printf(")");    //  notação para organizar na hora de mostrar os elementos
 }
+
+/*
+void printGivenLevel(struct node* root, int level)
+{
+	if (root == NULL)
+		return;
+	if (level == 1)
+		printf("%d ", root->data);
+	else if (level > 1)
+	{
+		printGivenLevel(root->left, level-1);
+		printGivenLevel(root->right, level-1);
+	}
+}
+*/
